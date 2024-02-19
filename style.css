@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    text-decoration: none;
+    
+}
+.header-heading h1{
+    display: flex;
+
+}
